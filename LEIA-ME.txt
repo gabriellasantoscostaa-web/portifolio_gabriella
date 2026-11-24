@@ -1,0 +1,24 @@
+PORTFÓLIO DA GABRIELLA
+======================
+
+COMO ABRIR
+1. Extraia o ZIP para uma pasta do computador.
+2. Abra o Visual Studio Code.
+3. Clique em Arquivo > Abrir Pasta e selecione portfolio_gabriella.
+4. Abra index.html e use a extensão Live Server (ou abra o arquivo no navegador).
+
+ARQUIVOS
+- index.html: conteúdo e informações do currículo/portfólio.
+- style.css: cores, layout, animações e adaptação para celular.
+- script.js: menu mobile e animações de entrada.
+- assets/arte-3d-roxa.png: imagem 3D da página inicial.
+
+INFORMAÇÕES INCLUÍDAS
+- Formação: Técnico em Desenvolvimento de Sistemas, Simione.
+- Situação: em andamento; conclusão prevista para dezembro de 2026.
+- Conhecimentos: HTML, CSS e JavaScript em aprendizado.
+- Interesses: desenho, vôlei e tecnologia.
+- Contato: gabriellasantoscostaa@gmail.com; São Paulo - SP.
+
+Para alterar qualquer informação, edite o texto correspondente no index.html.
+A fonte do Google Fonts precisa de internet; o restante funciona localmente.
